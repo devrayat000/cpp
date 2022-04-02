@@ -2,7 +2,7 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "C/C++: cpp.exe build active file",
+      "name": "C/C++: cpp.exe launch active file",
       "type": "cppvsdbg",
       "request": "launch",
       "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
@@ -11,7 +11,7 @@
       "cwd": "${workspaceFolder}",
       "environment": [],
       "externalConsole": false,
-      "preLaunchTask": "C/C++: cpp.exe build active file"
+      "preLaunchTask": "C/C++: g++.exe build active file"
     }
   ]
 }
