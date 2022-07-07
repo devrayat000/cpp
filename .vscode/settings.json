@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "typeindex": "c",
+        "typeinfo": "c",
+        "stdlib.h": "c",
+        "ratio": "c"
+    }
+}
