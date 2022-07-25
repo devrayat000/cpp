@@ -3,6 +3,14 @@
         "typeindex": "c",
         "typeinfo": "c",
         "stdlib.h": "c",
-        "ratio": "c"
+        "ratio": "c",
+        "random": "c",
+        "array": "c",
+        "bitset": "c",
+        "initializer_list": "c",
+        "regex": "c",
+        "utility": "c",
+        "valarray": "c",
+        "iostream": "cpp"
     }
 }
