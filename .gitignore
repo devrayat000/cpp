@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 **/*.exe
 **/*.bin
 
 .cph
+=======
+monim
+test
+area
+
+*.exe
+*.o
+>>>>>>> study
