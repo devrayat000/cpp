@@ -2,15 +2,15 @@
 
 - Geometry
 
-  - [Area of circle](solution/geometry/circle.c)
-  - [Perimeter of circle](solution/geometry/circle.c)
+  - [Area of circle](./solution/geometry/circle.c)
+  - [Perimeter of circle](./solution/geometry/circle.c)
   - Area of rectangle
 
 - Algebra
 
-  - [Average](solution/algebra/avg.c)
-  - [Sum](solution/algebra/sum.c)
-  - [Min/Max](solution/algebra/min_max.c-)
+  - [Average](./solution/algebra/avg.c)
+  - [Sum](./solution/algebra/sum.c)
+  - [Min/Max](./solution/algebra/min_max.c-)
   - Quadratic function
   - Linear function (1/2 variables)
   - Exponential functions (using both loops & recursion)
