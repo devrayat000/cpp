@@ -29,6 +29,6 @@
 - String
 
   - Previous Alphabet
-  - String length
-  - Substring
+  - [String length](./solution/string/length.c)
+  - [Substring](./solution/string/substring.c)
   
