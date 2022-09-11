@@ -11,6 +11,8 @@
         "regex": "c",
         "utility": "c",
         "valarray": "c",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "stdio.h": "c",
+        "string.h": "c"
     }
 }

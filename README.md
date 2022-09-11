@@ -29,4 +29,6 @@
 - String
 
   - Previous Alphabet
+  - String length
+  - Substring
   
