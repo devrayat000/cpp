@@ -20,10 +20,11 @@ int main()
     if (isAnagram)
         printf("Words are anagram.");
     else
-        printf("Words are not anagram");
+        printf("Words are not anagram.");
 
     return 0;
 }
+
 char* strsort(char *a1)
 {
     char temp;

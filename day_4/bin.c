@@ -17,6 +17,7 @@ int main()
 int bin(int x)
 {
     int b = 0, r = 0, i = 1;
+    
     while(x) {
         r = x % 2;
         b += r * i;

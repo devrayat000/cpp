@@ -3,7 +3,7 @@
 #include <stdbool.h>
 
 bool prime_l(const int num) {
-    for (int i = 2; i <= sqrt(num); i++) {
+    for (int i = 2; i < num; i++) {
         if (num % i == 0) {
             return false;
         }
@@ -12,7 +12,7 @@ bool prime_l(const int num) {
 }
 
 bool prime_r(const int num, int seed) {
-    if (seed > sqrt(num)) return true;
+    if (seed >= num) return true;
     if (num % seed == 0) {
         return false;
     }

@@ -1,10 +1,8 @@
 {
     "files.associations": {
-<<<<<<< HEAD
         "*.ejs": "html",
         "xutility": "cpp",
-        "ostream": "cpp"
-=======
+        "ostream": "cpp",
         "typeindex": "c",
         "typeinfo": "c",
         "stdlib.h": "c",
@@ -19,6 +17,5 @@
         "iostream": "cpp",
         "stdio.h": "c",
         "string.h": "c"
->>>>>>> study
     }
 }

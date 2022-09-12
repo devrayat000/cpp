@@ -16,6 +16,7 @@
   - Exponential functions (using both loops & recursion)
   - [sin & cos functions (using both loops & recursion)](./day_3/sine_series.c)
   - [Prime number (using both loops & recursion)](./solution/algebra/prime.c)
+  - [Check if a number is a sum of two prime numbers](./solution/algebra/sum_of_primes.c)
   - Common scientific formulas
   - Factorials, Permutation & Combinations (using both loops & recursion)
   - [Number base conversion (using both loops & recursion)](./solution/algebra/base_n.c)
