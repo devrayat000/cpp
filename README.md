@@ -22,7 +22,7 @@
   - [Number base conversion (using both loops & recursion)](./solution/algebra/base_n.c)
   - Trailling number (using both loops & recursion)
   - Number swapping (using or not using pointers)
-  - Hours, Minutes, Seconds
+  - [Hours, Minutes, Seconds](./solution/time/working_hour.c)
   - [Given number a Palindrome](./solution/algebra/paliandrome.c)
   - [Digits of a number (using both loops & recursion)](./solution/algebra/digits.c)
   - [Fibonacci numbers (using both loops & recursion)](./solution/algebra/fibonacci.c)
