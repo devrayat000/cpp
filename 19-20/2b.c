@@ -5,7 +5,7 @@
 int main()
 {
     FILE *file = fopen("2b.data.txt", "r");
-    FILE *file2 = fopen("2b.bmi.txt", "a");
+    FILE *file2 = fopen("2b.bmi.txt", "w");
     float w, h, bmi;
 
     while (fscanf(file, "%f%f", &w, &h) != EOF)
