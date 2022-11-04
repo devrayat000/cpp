@@ -14,7 +14,7 @@ for i, x in enumerate(arr):
 print("Sum of main array is", sum1)
 
 sum2 = 0
-for i, x in enumerate(arr):
+for x in arr:
     sum2 += x
     
 print("Number of zeroes is", zero_count)

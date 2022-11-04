@@ -40,7 +40,7 @@ int main()
         {
             temp_serial = students[j];
         }
-        printf("%d\t\t\tSerial no. %d\n", temp_serial, i + 1);
+        printf("%d\t\t\t\tSerial no. %d\n", temp_serial, i + 1);
         ids[i] = temp_serial;
     }
     

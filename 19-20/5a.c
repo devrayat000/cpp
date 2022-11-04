@@ -9,9 +9,18 @@ int main()
 
     for (int i = 0; i < n; i++)
     {
-        for (int j = 0; j <= 2*i; j++)
+        for (int j = 0; j < 2*i + 1; j++)
         {
             putchar((65 + i) - abs(j - i));
+        }
+        putchar('\n');
+    }
+
+    for (int i = 0; i < n; i++)
+    {
+        for (int j = 0; j < 2*(n-i)-1; j++)
+        {
+            putchar((65 + n - i - 1) - abs(j - n + i + 1));
         }
         putchar('\n');
     }
